@@ -1,7 +1,6 @@
 # Kam Hal
 ## Entry-Level SOC Analyst | Reverse Engineering & Data Specialist
 **Location:** Stittsville, Ontario | **Contact:** kamil.khalm@gmail.com  
-**GitHub:** DiGiT25 https://github.com/DiGiT25 | **LinkedIn:** https://www.linkedin.com/in/kamil-hal-147359217/
 
 > **Professional Summary:**  
 > Hands-on cybersecurity specialist with a background in data analysis, reverse engineering, and technical documentation. Skilled in Python, SQL, and incident response workflows. Proven ability to troubleshoot complex technical issues, analyze binaries, and adapt quickly to new security tools. Focused on practical application and iterative problem-solving.
@@ -26,22 +25,10 @@
 *Simulated environments and code demonstrating core security competencies and reverse engineering skills.*
 
 ### 🔍 SOC Incident Simulation
-- **Description:** Simulated a phishing attack and network breach scenario using a home lab environment.
-- **Outcome:** Detected anomalous traffic using Wireshark, analyzed logs in Splunk, and drafted an incident response report.
-- **Tools:** VirtualBox, Kali Linux, Splunk, Wireshark.
-- **Link:** [View Lab Report & Code](#)
 
 ### 🔐 Binary Analysis & Reverse Engineering
-- **Description:** Analyzed compiled binaries to understand memory structures and identify potential vulnerabilities.
-- **Outcome:** Successfully reverse-engineered a sample executable to map out control flow and identify hardcoded strings.
-- **Tools:** Ghidra, x64dbg, IDA Pro.
-- **Link:** [View Analysis Notes](#)
 
 ### 📊 Data Pipeline Optimization
-- **Description:** Developed a Python script to automate data cleaning and ingestion for a mock dataset.
-- **Outcome:** Reduced manual processing time by 50% and improved data integrity for downstream analysis.
-- **Tools:** Python (Pandas), SQL, AWS S3.
-- **Link:** [View Code](#)
 
 ---
 
@@ -96,9 +83,9 @@
 ## 🔗 Useful Links & Resources (_work in progress_)
 *Additional references and contact methods.*
 
-- **GitHub Repositories:** [github.com/your-username?tab=repositories](https://github.com/your-username?tab=repositories)
-- **Blog / Write-ups:** [Link to Medium or personal blog if applicable]
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Kamil Hal](https://www.linkedin.com/in/kamil-hal-147359217/)
+- **Blog / Write-ups:** [Taketori](https://www.youtube.com/@Taketori-f1z)
+- **Email:** [kamil.khalm@gmail.com](kamil.khalm@gmail.com)
 
 ---
 *Last Updated: May 22, 2026*
