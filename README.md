@@ -22,7 +22,7 @@
 
 ---
 
-## 🧪 Practical Labs & Projects
+## 🧪 Practical Labs & Projects (_work in progress_)
 *Simulated environments and code demonstrating core security competencies and reverse engineering skills.*
 
 ### 🔍 SOC Incident Simulation
@@ -45,7 +45,7 @@
 
 ---
 
-## 📚 Self-Directed Learning & Coursework
+## 📚 Self-Directed Learning & Coursework (_work in progress_)
 *Focused on practical application and hands-on skill acquisition.*
 
 - **TryHackMe:** Completed "SOC Level 1" and "Cyber Defense" paths. Gained hands-on experience with SIEM tools, log analysis, and incident response workflows.
@@ -59,10 +59,10 @@
 
 ---
 
-## 🎬 Technical Documentation & Media Production
+## 🎬 Technical Documentation & Media Production (_work in progress_)
 *Projects showcasing iterative learning, problem-solving, and attention to detail in media workflows.*
 
-### 🏆 Selected Works
+### 🏆 Selected Works 
 *High-fidelity edits demonstrating audio-visual synchronization, timeline management, and error resolution.*
 
 - **Bergenot** (`In Progress`): *Raw Metal* GMV. Focused on manual keyframing to align impact frames with audio transients at 138 BPM.
@@ -79,7 +79,7 @@
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience (_work in progress_)
 *Work history demonstrating reliability, problem-solving, and customer interaction.*
 
 ### **Data Scientist** | Toyota Financial Services
@@ -103,7 +103,7 @@
 
 ---
 
-## 🔗 Useful Links & Resources
+## 🔗 Useful Links & Resources (_work in progress_)
 *Additional references and contact methods.*
 
 - **GitHub Repositories:** [github.com/your-username?tab=repositories](https://github.com/your-username?tab=repositories)
