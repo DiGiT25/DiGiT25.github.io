@@ -1,7 +1,7 @@
 # Kam Hal
 ## Entry-Level SOC Analyst | Reverse Engineering & Data Specialist
 **Location:** Stittsville, Ontario | **Contact:** kamil.khalm@gmail.com  
-**GitHub:** DiGiT25 (https://github.com/DiGiT25) | **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+**GitHub:** DiGiT25 https://github.com/DiGiT25 | **LinkedIn:** https://www.linkedin.com/in/kamil-hal-147359217/
 
 > **Professional Summary:**  
 > Hands-on cybersecurity specialist with a background in data analysis, reverse engineering, and technical documentation. Skilled in Python, SQL, and incident response workflows. Proven ability to troubleshoot complex technical issues, analyze binaries, and adapt quickly to new security tools. Focused on practical application and iterative problem-solving.
