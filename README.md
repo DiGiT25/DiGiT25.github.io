@@ -15,10 +15,10 @@
 | :--- | :--- |
 | **Reverse Engineering & Analysis** | Ghidra, IDA Pro, x64dbg, OllyDbg, PE-bear, Wireshark, Nmap |
 | **Security Operations** | SIEM (Splunk, ELK), Metasploit, Burp Suite, Snort, YARA |
-| **Programming & Scripting** | Python (Pandas, NumPy), SQL, Bash, PowerShell, C/C++ |
+| **Programming & Scripting** | Python (Pandas, NumPy), SQL, Bash, PowerShell, C/C++, Java |
 | **Cloud & Data** | AWS (EC2, S3, IAM), Snowflake, Docker, Git/GitHub |
 | **Technical Documentation** | Adobe Premiere Pro, Audacity, DaVinci Resolve, Markdown, Jira |
-| **OS & Platforms** | Linux (Kali, Ubuntu), Windows Server, VirtualBox |
+| **OS & Platforms** | Linux (Kali, Ubuntu, Opensuse), Windows Server, VirtualBox |
 
 ---
 
@@ -65,7 +65,7 @@
 ### 🏆 Selected Works
 *High-fidelity edits demonstrating audio-visual synchronization, timeline management, and error resolution.*
 
-- **Bergenot** (`In Progress`): *Raw Metal* GMV. Focused on manual keyframing to align impact frames with audio transients at 140 BPM.
+- **Bergenot** (`In Progress`): *Raw Metal* GMV. Focused on manual keyframing to align impact frames with audio transients at 138 BPM.
 - **Laser Dance** (`Finished`): *Monster Hunter Rise* GMV. Managed variable frame-rate (VFR) footage to prevent audio drift.
 - **Phonky Mask** (`Finished`): Replicated complex viral effects by reverse-engineering plugin logic after tutorial failure.
 - **Yes, RoN Mods are Non-Essential** (`Finished`): Technical critique of game update mechanics and community QA importance.
