@@ -82,16 +82,6 @@
 ## 💼 Professional Experience (_work in progress_)
 *Work history demonstrating reliability, problem-solving, and customer interaction.*
 
-### **Data Scientist** | Toyota Financial Services
-*June 2022 – Present*
-- Uncovered and corrected missing steps in production data pipelines impacting 70% of active accounts.
-- Redeveloped loan origination models, improving performance by 50% and saving $1M in potential losses.
-
-### **Data Science Consultant** | Shawhin Talebi Ventures LLC
-*Dec 2020 – Present*
-- Conducted data collection and analysis for studies on biometric variables in hyper-realistic training scenarios.
-- Applied unsupervised deep learning to longitudinal ICU data to discover sepsis sub-phenotypes.
-
 ### **Retail Associate** | [Store Name]
 *[Dates]*
 - Resolved escalated customer complaints under time pressure, demonstrating conflict resolution skills.
